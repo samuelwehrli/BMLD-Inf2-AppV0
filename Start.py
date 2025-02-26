@@ -3,4 +3,11 @@ import pandas as pd
 
 st.title("Meine erste Streamlit App")
 
-st.write("Diese App wurde von Anne Müller und Hans Meier entwickelt.")
+# !! WICHTIG: Eure Emails müssen in der App erscheinen!!
+
+# Streamlit über den Text unten direkt in die App - cool!
+"""
+Diese App wurde von folgenden Personen entwickelt:
+- Anna Müller (anmu@zhaw.ch)
+- Peter Meier (peme@zhaw.ch)
+"""
